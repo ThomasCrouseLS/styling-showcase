@@ -31,7 +31,7 @@
 
     <p class="font-weight-bold">TailwindCSS</p>
 
-    <select class="form-select w-full" name="cars" id="cars">
+    <select class="w-full" name="cars" id="cars">
       <option value="none" selected disabled hidden>Choose a car</option>
       <option value="lamborghini">Lamborghini</option>
       <option value="ferrari">Ferrari</option>
@@ -64,7 +64,8 @@
       bg-gray-100
       px-4
       py-1
-      hover:bg-gray-200">CLICK ME!</button>
+      hover:bg-gray-200
+      active:bg-gray-400">CLICK ME!</button>
 
     </div>
 
