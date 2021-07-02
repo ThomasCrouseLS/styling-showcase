@@ -59,7 +59,12 @@
 
       <p class="font-weight-bold">TailwindCSS</p>
 
-      <button type="button" class="shadow bg-gray-50 p-3">CLICK ME!</button>
+      <button type="button" 
+      class="shadow-md
+      bg-gray-100
+      px-4
+      py-1
+      hover:bg-gray-200">CLICK ME!</button>
 
     </div>
 
