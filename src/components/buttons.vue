@@ -1,10 +1,10 @@
 <template>
 
-<div class="border-2 border-black px-4">
+<div class="border-2 border-black p-4">
     
     <p><b>Buttons:</b></p>
     
-    <div class="border border-red-500">
+    <div class="border border-red-500 p-2">
 
       <p><u>TailwindCSS</u></p>
 
@@ -18,7 +18,9 @@
 
     </div>
 
-    <div class="border border-blue-500">
+    <div class="p-1"></div>
+
+    <div class="border border-blue-500 p-2">
 
     <p><u>Vuetify</u></p>
 

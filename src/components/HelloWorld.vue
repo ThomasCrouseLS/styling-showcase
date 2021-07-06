@@ -16,11 +16,15 @@
 
     <htmlselect></htmlselect>
 
+    <div class="p-1"></div>
+
     <buttons></buttons>
+
+    <div class="p-1"></div>
 
     <textinput></textinput>
     
-    <bottomNavigation></bottomNavigation>
+    <!--<bottomNavigation></bottomNavigation>-->
     
     </div>
 </v-app>
@@ -29,7 +33,7 @@
 
 <script>
 
-  import bottomNavigation from './bottomNavigation';
+  //import bottomNavigation from './bottomNavigation';
   import htmlselect from './htmlselect';
   import buttons from './buttons';
   import textinput from './textinput';
@@ -39,7 +43,7 @@
     name: 'HelloWorld',
 
     components: {
-      bottomNavigation,
+      //bottomNavigation,
       htmlselect,
       buttons,
       textinput
