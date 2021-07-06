@@ -26,7 +26,7 @@
     
     <!--<bottomNavigation></bottomNavigation>-->
     
-    </div>
+  </div>
 </v-app>
 
 </template>
