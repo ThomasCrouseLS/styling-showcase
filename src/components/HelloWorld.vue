@@ -24,8 +24,6 @@
 
     <textinput></textinput>
     
-    <!--<bottomNavigation></bottomNavigation>-->
-    
   </div>
 </v-app>
 
@@ -33,7 +31,6 @@
 
 <script>
 
-  //import bottomNavigation from './bottomNavigation';
   import htmlselect from './htmlselect';
   import buttons from './buttons';
   import textinput from './textinput';
