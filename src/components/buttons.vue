@@ -18,6 +18,7 @@
       font-sans
       hover:bg-gray-200
       active:bg-gray-400">CLICK ME!</button>
+
       <button type="button" 
       class="shadow-md
       rounded
@@ -28,6 +29,7 @@
       font-sans
       hover:bg-yellow-300
       active:bg-yellow-400">LAMBORGHINI</button>
+
       <button type="button" 
       class="shadow-md
       rounded
@@ -38,6 +40,7 @@
       font-sans
       hover:bg-red-600
       active:bg-red-700">FERRARI</button>
+
       <button type="button" 
       class="shadow-md
       rounded
@@ -48,6 +51,7 @@
       font-sans
       hover:bg-green-600
       active:bg-green-700">MERCEDES</button>
+      
       <button type="button" 
       class="shadow-md
       rounded
